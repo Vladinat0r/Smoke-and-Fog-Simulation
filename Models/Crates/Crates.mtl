@@ -1,0 +1,128 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.10.2018 17:33:29
+
+newmtl M_3
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3882 0.3176 0.2275
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_3.png
+	map_Kd Textures\M_3.png
+
+newmtl M_5
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4118 0.3647 0.2941
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_5.png
+	map_Kd Textures\M_5.png
+
+newmtl M_2
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3922 0.3647 0.2824
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_2.png
+	map_Kd Textures\M_2.png
+
+newmtl M_6
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3255 0.2941 0.2431
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_6.png
+	map_Kd Textures\M_6.png
+
+newmtl M_7
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5137 0.3961 0.2863
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_7.png
+	map_Kd Textures\M_7.png
+
+newmtl M_8
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3137 0.2863 0.2627
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_8.png
+	map_Kd Textures\M_8.png
+
+newmtl M_9
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6353 0.5098 0.3725
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_9.png
+	map_Kd Textures\M_9.png
+
+newmtl M_10
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1843 0.1255 0.0902
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_10.png
+	map_Kd Textures\M_10.png
+
+newmtl M_1
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4902 0.4314 0.3294
+	Ks 0.3300 0.3300 0.3300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Textures\M_1.png
+	map_Kd Textures\M_1.png
