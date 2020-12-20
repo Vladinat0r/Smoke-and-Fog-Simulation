@@ -283,7 +283,7 @@ void init() {
 	ShowCursor(false);
 	SetCursorPos(halfWidth, halfHeight);
 
-	glClearColor(1.0, 1.0, 1.0, 0.0);		//Sets the clear colour to white
+	glClearColor(1.0f, 1.0f, 1.0f, 0.0f);		//Sets the clear colour to white
 											//glClear(GL_COLOR_BUFFER_BIT) in the display function will clear the buffer to this colour
 	glEnable(GL_DEPTH_TEST);
 	glEnable(GL_CULL_FACE);
